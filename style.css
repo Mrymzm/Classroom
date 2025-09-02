@@ -1,0 +1,177 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Hello{
+    background-color: gray;
+    text-transform: capitalize;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px 3px 10px 3px;
+}
+
+#choclate{
+    color: chocolate;
+}
+
+#styling{
+    color: rgb(85, 18, 18);
+}
+
+#button{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#box{
+    color: rgba(225, 20, 200, 1);
+    background-color: cornflowerblue;
+}
+
+.Heading{
+    color: rgb(51, 34, 143);
+    font-weight: lighter;
+    text-decoration: wavy underline ;
+}
+
+#topic{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#font{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 25px;
+    text-align: justify;
+} 
+
+#align{
+    text-align: center;
+    line-height: 25px;
+} 
+
+#google{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: black;
+}
+
+#Lorem{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#capitalize{
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+#practice{
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+#outer{
+    font-size: 25px;   
+}
+
+#inner{
+    font-size: 10px;
+}
+
+#div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#div{
+    background-color: aquamarine;
+    color: rgba(225, 20, 200, 0.75);
+    text-transform: capitalize;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    border: 8px solid brown;
+    border-radius: 12px;
+    padding-top: 25px;
+    margin: 10px 20px 10px 20px;
+}
+
+#Lights{
+    background-color: yellowgreen;
+    text-decoration: underline;
+    text-align: center;
+    padding: 50px;
+    border: 50px solid green;
+    margin: 50px;
+    height: 30px;
+    width: 100px;
+}
+
+#red{
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+#yellow{
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#green{
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#navbar{
+    padding: 0%;
+    border: 0%;
+    background-color: #0f1111;
+    color: white;
+    height: 60px;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+.anchor{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+
+#Search{
+    background-color: #f08804;
+    color: white;
+}
