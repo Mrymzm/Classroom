@@ -4,7 +4,10 @@ Practicing level 1 and 2 of CSS.
 
 CSS has three different ways to apply style to written HTML. 
 
-Including style tag in the head tag, Inline CSS and External stylesheet. 
+Including:
+- Internal CSS (style tag in the head section) 
+- Inline CSS (styling directly inside an HTML element) 
+- External stylesheet(writing the style code in a separate file). 
 
 You can apply style by giving unique id and classes to the HTML elements.
 
