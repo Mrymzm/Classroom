@@ -1,6 +1,12 @@
-# CSS Practice 
+# Cascading Style Sheet (CSS) 
 
-Practicing level 1 and 2 of CSS. This includes the three different styles of applying styling to HTML structure. Including style tag in the head tag, Inline CSS and External stylesheet. I applied style by giving unique id and classes to the HTML tags. 
+Practicing level 1 and 2 of CSS. 
+
+CSS has three different ways to apply style to written HTML. 
+
+Including style tag in the head tag, Inline CSS and External stylesheet. 
+
+You can apply style by giving unique id and classes to the HTML elements.
 
 ### Practiced:
 - Making a navbar.
@@ -9,8 +15,8 @@ Practicing level 1 and 2 of CSS. This includes the three different styles of app
 - Making div's boxes, making circles.
 - Trying different border styling.
 - Adding links and text-decoration.
-- styling buttons.
-- Unordered list.
+- Styling buttons.
+- Unordered and ordered list.
 
 ---
 
